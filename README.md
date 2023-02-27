@@ -7,7 +7,8 @@ Script made in powershell to generate csv file to import multiple suspicious obj
 
 2- Run "import-visionOne.ps1"
 
-![image](https://user-images.githubusercontent.com/88821522/220423671-134c2a93-0457-4df8-81c0-39538ba31d42.png)
+![image](https://user-images.githubusercontent.com/88821522/221649463-8ec6e97f-b87f-49df-a068-e7e354f28edc.png)
+
 
 3- CSV file named "VisionOneImport.csv" will be created
 
